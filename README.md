@@ -5,9 +5,6 @@
 
 ## I'm a Student and a Developer
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="pyro Spotify Playing" width="350" />](https://open.spotify.com/user/seui5b0lz15me7c52el8g9qgj)
 
 ### Connect with me:
 
