@@ -35,4 +35,4 @@
 
 </details>
 
-[website]: https://pyroo.dev
+[website]: https://pyroodev.github.io
